@@ -1,0 +1,9 @@
+﻿  Field.cpp
+  GameMode.cpp
+  Snake.cpp
+  Source.cpp
+Source.cpp(18): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  All 58 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Snakee.vcxproj -> D:\С++Projects\Snakee\Release\Snakee.exe
